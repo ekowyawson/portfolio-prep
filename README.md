@@ -4,6 +4,6 @@ Hello. My name is Ekow (pronounced echo) and I'm a highly skilled professional s
 
 My **passion** lies in tinkering and solving complex problems, a pastime that seamlessly aligns with my successful IT career. I've built websites and web applications using various frameworks, with a focus on MERN.
 
-With a wealth of experience and a dedication to staying at the forefront of technological advancements, I am committed to delivering innovative solutions and driving success in the ever-evolving landscape of software development. Let's transform challenges into opportunities together.
+With a wealth of experience and a dedication to staying at the forefront of technological advancements, I am committed to delivering innovative solutions and driving success in the ever-evolving landscape of softwarbete development. Let's transform challenges into opportunities together.
 
 ## Links To My Projects
